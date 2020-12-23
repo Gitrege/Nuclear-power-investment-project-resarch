@@ -9,3 +9,24 @@
 2。获取清洁能源和火力发电的装机数，配合电力来预测缺口。
 3。获取中国铀矿探测、开采、储备和进口数量，分析其趋势走向。
 4。获取近几年核电在中国的发展规划。
+
+数据获取文档：
+
+部分数据分析结论：
+1.通过excel 拟合 GDP和电力消耗总量，可得如下公式：
+电力：y
+GDP: X
+ y = 0.0001x2 + 3.5811x + 24102
+通过此可以通过预测GDP增长来预测电力需求总量。
+当然也可以对GDP/电力消耗分别进行拟合计算预估。 
+2.分析各类发电中各类火力、水力、风力、太阳能、核电的占比及数据增长情况。
+2000-2018年火力占比：
+![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/fire.png)
+2000-2018年水力占比：
+![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/water.png)
+2000-2018年风力占比：
+![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/wind.png)
+2000-2018年核电占比：
+![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/nuclear.png)
+2000-2018年太阳能占比：
+![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/solar_energy.png)
