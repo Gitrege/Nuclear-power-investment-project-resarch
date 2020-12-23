@@ -22,11 +22,16 @@ GDP: X
 2.分析各类发电中各类火力、水力、风力、太阳能、核电的占比及数据增长情况。
 2000-2018年火力占比：
 ![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/fire.png)
+
 2000-2018年水力占比：
 ![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/water.png)
+
 2000-2018年风力占比：
 ![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/wind.png)
+
 2000-2018年核电占比：
 ![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/nuclear.png)
+
 2000-2018年太阳能占比：
 ![image](https://github.com/Gitrege/Nuclear-power-investment-project-resarch/blob/main/images/solar_energy.png)
+
